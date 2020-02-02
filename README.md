@@ -1,4 +1,4 @@
-# Minimalist Full Stack Example Application
+#  Minimalist Full Stack Example Application
 
 Frontend: Angular 8
 Backend: Actix.rs, Rust, No database
