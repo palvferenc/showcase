@@ -10,3 +10,9 @@ Frontend ng serve will use localhost:8080 as REST endpoint, backend CORS enabled
 
 
 Backend: start backend with cargo run, backend hosts also the fronend rom folder static, use ng build to publish new stuff
+
+Unit tests:
+
+ng serve
+
+cargo test
