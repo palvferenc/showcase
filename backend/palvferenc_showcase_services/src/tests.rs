@@ -10,5 +10,5 @@ async fn test_get_users_ok() {
         _ => panic!("Response error"),
     };
 
-    assert_eq!(response_body, "[{\"id\":1,\"name\":\"Test user 1\"},{\"id\":1,\"name\":\"Test user 2\"},{\"id\":1,\"name\":\"Test user 3\"},{\"id\":1,\"name\":\"Test user 4\"}]");
+    assert_eq!(response_body, "[{\"id\":1,\"name\":\"Test user 1\"},{\"id\":2,\"name\":\"Test user 2\"},{\"id\":3,\"name\":\"Test user 3\"},{\"id\":4,\"name\":\"Test user 4\"}]");
 }
