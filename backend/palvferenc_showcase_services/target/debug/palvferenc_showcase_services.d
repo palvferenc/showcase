@@ -1,0 +1,1 @@
+/home/palvferenc/dev/showcase/backend/palvferenc_showcase_services/target/debug/palvferenc_showcase_services: /home/palvferenc/dev/showcase/backend/palvferenc_showcase_services/src/main.rs /home/palvferenc/dev/showcase/backend/palvferenc_showcase_services/src/services.rs

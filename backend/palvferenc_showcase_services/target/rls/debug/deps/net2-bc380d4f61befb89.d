@@ -1,0 +1,13 @@
+/home/palvferenc/dev/showcase/backend/palvferenc_showcase_services/target/rls/debug/deps/net2-bc380d4f61befb89.rmeta: /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/lib.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/tcp.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/udp.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/socket.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/ext.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/utils.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/mod.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/impls.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/unix.rs
+
+/home/palvferenc/dev/showcase/backend/palvferenc_showcase_services/target/rls/debug/deps/net2-bc380d4f61befb89.d: /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/lib.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/tcp.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/udp.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/socket.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/ext.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/utils.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/mod.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/impls.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/unix.rs
+
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/lib.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/tcp.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/udp.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/socket.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/ext.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/utils.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/mod.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/impls.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/unix.rs:

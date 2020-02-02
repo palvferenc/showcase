@@ -1,0 +1,11 @@
+/home/palvferenc/dev/showcase/backend/palvferenc_showcase_services/target/debug/deps/ppv_lite86-c699edc6fc9496b3.rmeta: /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/lib.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/soft.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/types.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/x86_64/mod.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/x86_64/sse2.rs
+
+/home/palvferenc/dev/showcase/backend/palvferenc_showcase_services/target/debug/deps/libppv_lite86-c699edc6fc9496b3.rlib: /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/lib.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/soft.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/types.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/x86_64/mod.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/x86_64/sse2.rs
+
+/home/palvferenc/dev/showcase/backend/palvferenc_showcase_services/target/debug/deps/ppv_lite86-c699edc6fc9496b3.d: /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/lib.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/soft.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/types.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/x86_64/mod.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/x86_64/sse2.rs
+
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/lib.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/soft.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/types.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/x86_64/mod.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.6/src/x86_64/sse2.rs:

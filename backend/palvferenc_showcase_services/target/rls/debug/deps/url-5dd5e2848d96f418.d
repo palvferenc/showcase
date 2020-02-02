@@ -1,0 +1,13 @@
+/home/palvferenc/dev/showcase/backend/palvferenc_showcase_services/target/rls/debug/deps/url-5dd5e2848d96f418.rmeta: /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/lib.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/host.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/origin.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/parser.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/path_segments.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/query_encoding.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/slicing.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/form_urlencoded.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/quirks.rs
+
+/home/palvferenc/dev/showcase/backend/palvferenc_showcase_services/target/rls/debug/deps/url-5dd5e2848d96f418.d: /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/lib.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/host.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/origin.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/parser.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/path_segments.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/query_encoding.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/slicing.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/form_urlencoded.rs /home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/quirks.rs
+
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/lib.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/host.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/origin.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/parser.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/path_segments.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/query_encoding.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/slicing.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/form_urlencoded.rs:
+/home/palvferenc/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/quirks.rs:
