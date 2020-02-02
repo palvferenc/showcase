@@ -1,5 +1,6 @@
 use actix_files as fs;
-use actix_web::{App, HttpServer};
+use actix_cors::Cors;
+use actix_web::{App, HttpServer, http::header};
 
 mod services;
 
@@ -13,6 +14,14 @@ async fn main() -> std::io::Result<()> {
 
     HttpServer::new(|| {
         App::new()
+        .wrap(
+            Cors::new()
+                    .allowed_origin("http://localhost:4200")
+                    .allowed_methods(vec!["GET", "POST"])
+                    .allowed_header(header::CONTENT_TYPE)
+                    .max_age(3600)
+                    .finish(),
+            )
             .service(
                 fs::Files::new("/", "./static/").index_file("index.html"),
             )
