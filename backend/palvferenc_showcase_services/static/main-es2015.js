@@ -32,7 +32,7 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<router-outlet></router-outlet>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"mt-12 container mx-auto p-16 bg-white rounded-lg shadow-2xl ...\">\n  <router-outlet></router-outlet>\n</div>");
 
 /***/ }),
 
@@ -45,7 +45,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<table>\n    <thead>\n        <th><abbr title=\"Id\">Id</abbr></th>\n        <th><abbr title=\"Name\">Name</abbr></th>\n    </thead>\n    <tbody>\n        <tr *ngFor=\"let user of users\">\n        <td>{{user.id}}</td>\n        <td>{{user.name}}</td>\n        </tr>  \n    </tbody>\n</table>");
+/* harmony default export */ __webpack_exports__["default"] = ("<h1 class=\"mb-6 text-2xl\">\n    Users\n</h1>\n<table>\n    <thead>\n        <th><abbr title=\"Id\">Id</abbr></th>\n        <th><abbr title=\"Name\">Name</abbr></th>\n    </thead>\n    <tbody>\n        <tr *ngFor=\"let user of users\">\n        <td>{{user.id}}</td>\n        <td>{{user.name}}</td>\n        </tr>  \n    </tbody>\n</table>");
 
 /***/ }),
 
