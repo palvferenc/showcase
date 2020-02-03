@@ -433,7 +433,7 @@ let UserService = class UserService {
         this.http = http;
     }
     getUsers() {
-        return this.http.get(`${src_environments_environment__WEBPACK_IMPORTED_MODULE_3__["environment"].servicesBaseUrl}/user`);
+        return this.http.get(`${src_environments_environment__WEBPACK_IMPORTED_MODULE_3__["environment"].servicesBaseUrl}/api/v1/user`);
     }
 };
 UserService.ctorParameters = () => [

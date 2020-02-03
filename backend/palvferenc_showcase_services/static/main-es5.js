@@ -898,7 +898,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _createClass(UserService, [{
         key: "getUsers",
         value: function getUsers() {
-          return this.http.get("".concat(src_environments_environment__WEBPACK_IMPORTED_MODULE_3__["environment"].servicesBaseUrl, "/user"));
+          return this.http.get("".concat(src_environments_environment__WEBPACK_IMPORTED_MODULE_3__["environment"].servicesBaseUrl, "/api/v1/user"));
         }
       }]);
 

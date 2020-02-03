@@ -25,7 +25,7 @@ async fn main() -> std::io::Result<()> {
                     .max_age(3600)
                     .finish(),
             )
-            .route("/user", web::get().to(crate::services::get_users))
+            .route("/api/v1/user", web::get().to(crate::services::get_users))
             .service(
                 fs::Files::new("/", "./static/").index_file("index.html"),
             )

@@ -49,7 +49,7 @@ describe('UserService', () => {
       );
 
       // HeroService should have made one request to GET heroes from expected URL
-      const req = httpTestingController.expectOne(`${environment.servicesBaseUrl}/user`);
+      const req = httpTestingController.expectOne(`${environment.servicesBaseUrl}/api/v1/user`);
       expect(req.request.method).toEqual('GET');
 
       // Respond with the mock heroes
